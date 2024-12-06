@@ -1,0 +1,16 @@
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\bin\Debug\net8.0-windows\BPNN.exe
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\bin\Debug\net8.0-windows\BPNN.deps.json
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\bin\Debug\net8.0-windows\BPNN.runtimeconfig.json
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\bin\Debug\net8.0-windows\BPNN.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\bin\Debug\net8.0-windows\BPNN.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.Form1.resources
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.csproj.GenerateResource.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.AssemblyInfoInputs.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.AssemblyInfo.cs
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.csproj.CoreCompileInputs.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\refint\BPNN.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\BPNN.genruntimeconfig.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\BPNN Activity\BPNN\obj\Debug\net8.0-windows\ref\BPNN.dll
